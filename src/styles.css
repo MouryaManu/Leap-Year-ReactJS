@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&display=swap");
+* {
+  margin: 0rem;
+  background-color:#f3e5d8
+  
+}
+.App {
+  font-family: "Caveat", cursive;
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 0rem;
+}
+h1,
+h2 {
+}
